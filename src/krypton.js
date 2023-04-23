@@ -43,7 +43,7 @@ const start = async () => {
     })
 
     //Config
-    client.name = process.env.NAME || 'Krypton'
+    client.name = process.env.NAME || 'Mr Freezer'
     client.prefix = process.env.PREFIX || '!'
     client.writesonicAPI = process.env.WRITE_SONIC || null
     client.bgAPI = process.env.BG_API_KEY || null
@@ -123,7 +123,7 @@ const start = async () => {
         if (connection === 'open') {
             client.state = 'open'
             loadCommands()
-            client.log('🤖 Krypton Bot is ready!!')
+            client.log('🤖Blood Demon Bot is ready!!')
         }
     })
 
