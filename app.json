@@ -1,17 +1,17 @@
 {
-   "name":"Krypton",
+   "name":"Blood Demon",
    "description":"A WhatsApp Bot With Multi Device Supported",
    "keywords":[
       "bot",
       "whatsapp"
    ],
-   "website":"https://github.com/Kry9toN/KryPtoN-WhatsApp-Bot#readme",
-   "repository":"https://github.com/Kry9toN/KryPtoN-WhatsApp-Bot.git",
+   "website":"https://t.me/OkitaChi",
+   "repository":"https://t.me/KingFreezer405",
    "logo":"https://i.ibb.co/mzcSXdy/koboo.png",
    "success_url":"/",
    "env":{
       "NAME":{
-         "description":"Name of your bot",
+         "description":"Blood Demon MD",
          "required":true
       },
       "PREFIX":{
