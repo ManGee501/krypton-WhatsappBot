@@ -2,7 +2,7 @@
    "name": "krypton",
    "version": "0.0.1",
    "description": "krytron based on JavaScript",
-   "author": "Debanjan-San",
+   "author": "Mr Freezer",
    "main": "src/krypton.js",
    "keywords": [
       "Whatsapp",
@@ -16,12 +16,12 @@
       "start": "node --optimize_for_size --max_old_space_size=460 src/krypton.js"
    },
    "bugs": {
-      "url": "https://github.com/Debanjan-San/krypton-WhatsappBot/issues"
+      "url": "https://t.me/OkitaChi"
    },
-   "homepage": "https://github.com/Debanjan-San/krypton-WhatsappBot",
+   "homepage": "https://t.me/KingFreezer405",
    "repository": {
       "type": "git",
-      "url": "https://github.com/Debanjan-San/krypton-WhatsappBot.git"
+      "url": "https://t.me/KingFreezer405"
    },
    "dependencies": {
       "@adiwajshing/baileys": "^4.4.0",
